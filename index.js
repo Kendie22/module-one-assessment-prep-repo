@@ -31,7 +31,9 @@ const exampleMovies = require("./movies");
 function getAllMovieTitles(movie) {
   let movieTitle = []
   for (let i = 0; i < 0; i++) {
-    
+    if () {
+      
+    }
   }
 }
 
